@@ -1,4 +1,4 @@
-import chai from 'chai';
+import * as chai from 'chai';
 import chaiAsPromised from 'chai-as-promised';
 import * as meta from '../../dist/meta.js';
 import * as pointer from '../../dist/pointer.js';

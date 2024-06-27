@@ -1,4 +1,4 @@
-import chai from 'chai';
+import * as chai from 'chai';
 import { rebase, Rebaser, RebaserError } from '../../dist/index.js';
 
 const should = chai.should();

@@ -1,7 +1,7 @@
 {
     "compilerOptions": {
       "incremental": true,
-      "module": "es2020",
+      "module": "NodeNext",
       "target": "es2020",
       "noImplicitAny": false,
       "sourceMap": true,
@@ -15,4 +15,3 @@
     },
     "include": ["src/**/*.ts"]
   }
-  
