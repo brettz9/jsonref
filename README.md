@@ -1,4 +1,6 @@
-# jsonref
+# @brettz9/jsonref
+
+A fork of jsonref to support CommonJS as well as ESM exports.
 
 A simple Javascript library implementing the [JSON Reference](http://tools.ietf.org/html/draft-pbryan-zyp-ref-03) and the [JSON Pointer](http://tools.ietf.org/html/rfc6901) specifications.
 
@@ -9,7 +11,7 @@ A simple Javascript library implementing the [JSON Reference](http://tools.ietf.
 ## Install
 
 ```bash
-$ npm install jsonref
+$ npm install @brettz9/jsonref
 ```
 
 ## parse(dataOrUri _[, options]_)

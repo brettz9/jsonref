@@ -1,6 +1,6 @@
 {
-  "name": "jsonref",
-  "version": "0.0.0-development",
+  "name": "@brettz9/jsonref",
+  "version": "0.1.0",
   "description": "Javascript References ($ref) and Pointers library",
   "type": "module",
   "exports": {
@@ -41,7 +41,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/vivocha/jsonref.git"
+    "url": "git+https://github.com/brettz9/jsonref.git"
   },
   "keywords": [
     "js",
@@ -53,9 +53,9 @@
   "author": "Federico Pinna <fpinna@vivocha.com> (http://www.vivocha.com/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vivocha/jsonref/issues"
+    "url": "https://github.com/brettz9/jsonref/issues"
   },
-  "homepage": "https://github.com/vivocha/jsonref#readme",
+  "homepage": "https://github.com/brettz9/jsonref#readme",
   "devDependencies": {
     "@types/chai": "^4.3.1",
     "@types/chai-as-promised": "^7.1.5",
